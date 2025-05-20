@@ -29,5 +29,6 @@ It fetches real-time weather data using the **OpenWeatherMap API** and presents 
 1. Clone the repository:  
 ```bash
 git clone https://github.com/pradnyajadhav15/WeatherSnap.git
-cd WeatherSnap afterward cd mini-project
+cd WeatherSnap
+cd mini-project
 2.Start the development server: npm run dev

@@ -18,7 +18,7 @@ It fetches real-time weather data using the **OpenWeatherMap API** and presents 
 - 💡 JavaScript (ES6+)  
 - 📦 Axios (for API calls)  
 
-## 🔗 Live Demo
+## 🔗 Live Preview 
 
 [https://weathersnap-1.onrender.com/](https://weathersnap-1.onrender.com/)
 
